@@ -1,0 +1,109 @@
+html, .content-wrapper, .search-content, .search-content-header, .settings-content {
+     background: #424242 !important;
+     color: #dcdcdc !important;
+}
+
+h1, h2, h4, h5, li, label, 
+.jumbotron-inner, .jumbotron-inner .jumbotron-title,
+.contact, .training-filter-list li,
+.tab-link h3, .tab-link p,
+.widget-label, .cursus-header-nav li a,
+.header-second-nav li a, .dropdown-menu li a, 
+.menu-link, .menu .list-unstyled li a, .course-component-module-title a,
+.ui-accordion-header a, .course-component-note .markdown p,
+.course-content h3, .course-content p,
+.module-finish .btn-link, 
+.vert-mod, .problem-progress,
+.graded .subtitle,
+.staff-link .staff-job{
+    color: #ffffff !important;
+}
+
+body header{
+    border-bottom: 1px solid #535353 !important;
+}
+
+.tracks-progress-cycle-title{
+    border-top: 1px solid #535353 !important;
+}
+
+#header, .footer-inner, .cursus-header,
+.training-filter,
+.navbar, .navbar-container, .nav-link, .navbar-search, .tab-link, 
+.dropdown-menu, .suggestion-list_f7YdvtQ1lM,
+.card, .card-body, .card-tendency, 
+.event-widget, .tracks-progress-widget, .tracks-progress-cycle-title,
+.auth-block, .auth-block-divider *,
+.modal-dialog, .modal-content,
+.top-bar, .course-block, .course-progress-block, .blog-widget-article,
+.course-component, #stats-tab, .courseBlock_1dZyTEgf6x,
+.menu, .menu-header *, .header-second, .profile-block,
+.settings, .settings-menu, .settings-section-title,
+.data-table-wrapper, .data-table-header, .data-table-title *,
+.course-wrapper, .course-description, .course-description-content,
+.course-description-aside-staff, .course-description-aside-staff .staff-aside,
+.course-description-aside-modules,
+.course-index, .ui-accordion .chapter ul, .ui-accordion-header,
+.cycle-panblock-header, .cycle-panblock-inner, .cycle-panblock-inner-header, .userlist-block{
+     background-color: #212121 !important;
+     color: #ffffff !important;
+}
+
+.navbar-search-input-focus, .navbar-search-input[type=search]:focus, 
+.navbar-search-input:focus, .navbar-search-input:hover,
+.form-group, .form-group-float, .form-control,
+.course-block-wrapper .course-module-list {
+     color: #ffffff !important;
+     background: #3a3a3a !important;
+}
+
+.navbar-search-icon, .promotion-link, .profile-block-user .tooltip-inner{
+     color: #ffffff !important;
+     background-color: #2d2d2d !important;
+}
+
+.jumbotron, .jumbotron-title, .section-yellow, 
+.school-banner,
+.card-tendency-inner, .tab-content-project, 
+.content-project-inner, .course-block-wrapper,
+.cycle-panblock-inner-body, .no-conf,
+.settings-section, .settings-section .form-group,
+.settings-section .panblock,
+.progress-circle,
+.progress-circle .c100 .circle-content,
+.progress-circle .c100 .circle-percent,
+.course-component-module-mimo,
+.course-content, .video, 
+.profile-wrapper, .solution-span span,
+.training-filter-item {
+     background: #2d2d2d !important;
+     color: #686868 !important;
+}
+
+.form-group-float label{
+     top: -15px;
+     background: none;
+}
+
+.btn-header-collapse.collapsed .btn-header-toggle{
+     background-color: #7f7f7f !important;
+}
+
+.progress-circle,
+.progress-circle .c100 .circle-content,
+.progress-circle .c100 .circle-percent{
+     border-radius: 50%;
+}
+
+.chapter .ui-accordion-content li a, .graded{
+     background: #474747 !important;
+}
+
+.chapter li.active a{
+     background: #3ea5ce !important;
+     color: #474747 !important;
+}
+
+.MathJax *{
+     color: #008b8b!important;
+}
