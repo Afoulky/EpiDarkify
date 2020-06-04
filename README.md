@@ -12,6 +12,9 @@ Vous pouvez aussi utiliser Dark Reader
 
 Utilisez le CSS "Pegasus.css"
 
+![Pegasus black](/screenshots/Pegasus_black.png)
+
+Utilisez le CSS "Pegasus_black.css"
 
 ### Intra ACDC : https://acdc.epita.fr/
 ![IntraACDC](/screenshots/IntraACDC.png)
