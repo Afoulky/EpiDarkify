@@ -8,7 +8,7 @@ Vous pouvez aussi utiliser Dark Reader
 ## Sites pris en charge
 ### Pegasus : https://prepa-epita.helvetius.net/pegasus/index.php
 
-![Pegasus](/screenshots/pegasus.png)
+![Pegasus](/screenshots/Pegasus.png)
 
 Utilisez le CSS "Pegasus.css"
 
