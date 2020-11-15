@@ -1,1 +1,50 @@
-/* TODO */
+html, body, main {
+    background-color : #31383F !important;
+    background-image: none !important;
+    color: #DCDCDC !important;
+}
+
+.navbar, .card, 
+.list-group, .list-group-item{
+    background-color: #24292E !important;
+}
+
+#userlist-pictures .card-body{
+    background-color: #24292E !important;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.list-group-item-danger{
+    color: #8B0000 !important;
+    background-color: #f5c6cb !important;
+    opacity: 0.6;
+}
+
+.card-header{
+    background-color: #0C0C0C !important;
+    color: #FFFFFF !important;
+}
+
+#cri_intranet_users_PROD-results, #cri_intranet_groups_PROD-results,
+.list-group-item-secondary, .table-secondary th{
+    background-color: #181B1D !important;
+    color: #FFFFFF !important;
+}
+
+.list-group-item-action{
+    color: #007bff;
+}
+
+.table{
+    color: #dcdcdc !important;
+}
+
+.table-hover tbody tr:hover{
+    color: #b0b0b0 !important;
+}
+
+input, textarea, .select{
+    background-color : #31383F !important;
+    color: #dcdcdc !important;
+}

@@ -36,10 +36,11 @@ Les CSS ne sont pas encore au format userstyle, il faudra donc les ajouter manue
 #### IntraCRI_v1 by AbyadhX : IntraCRI_v1.css
 ![IntraCRI_v1](/screenshots/IntraCRI_v1.png)
 NB : Ce CSS n'est plus utile étant donné que l'intra CRI a complétement été refait.
-Une nouvelle version sortira pour bientôt. Stay Tuned
+Utilisez la v2
+
 
 #### IntraCRI_v2 by AbyadhX : IntraCRI_v2.css
-\#TODO
+![IntraCRI_v2](/screenshots/IntraCRI_v2.png)
 
 ### IonisX : https://ionisx.com/
 #### IonisX by AbyadhX : IonisX.css
