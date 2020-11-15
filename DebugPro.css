@@ -1,0 +1,40 @@
+html, body, .title, #navigation {
+     background: #202020;
+     color: #ffffff !important;
+}
+
+h1, h2, h4, h5, li, footer a{
+    color: #ffffff;
+}
+
+section li a{
+    color: #ff7000;
+    text-decoration: underline;
+}
+
+section, main{
+     background: #2d2d2d;
+     box-shadow: #2d2d2d 8px 8px 8px;
+}
+
+h1{
+     background: #3a3a3a !important;
+     border-bottom: 0.4rem solid #535353 !important;
+     border-top: 0.4rem solid #535353 !important;
+}
+
+#table_of_contents{
+     background: #232323 !important;
+     box-shadow: #2d2d2d 8px 8px 8px;
+     padding-bottom: 15px;
+     border-bottom: 3px solid #535353 !important;
+}
+
+kbd{
+    color: #020202;
+}
+
+blockquote {
+    background: #272822;
+    border-radius: 0.3em;
+}

@@ -1,0 +1,203 @@
+:root {
+    --main-color: black !important;
+}
+
+.menu .tite1 {
+    border-top: none;
+    border-bottom: none;
+}
+
+
+html,
+body,
+.container-fluid {
+    background-color: black !important;
+    background-image: none !important;
+    color: #DCDCDC !important;
+}
+
+body.login,
+body.login::before,
+.login .container {
+    width: 100% !important;
+    height: 100% !important;
+    background-color: black !important;
+    background-image: none !important;
+}
+
+.right-icon-mobile,
+.login .container-fluid .menu,
+.container,
+.home-page,
+#pegasus_center,
+#pegasus_contenu,
+.pegasus-center-cover,
+.pegasus-center-home-page,
+#pegasus_header_line,
+.very-top-header,
+#pegasus_footer,
+.tracking-body-item {
+    background-color: #000 !important;
+    background-image: none !important;
+}
+
+.container {
+    position: relative;
+}
+
+#pegasus_header_line {
+    height: 25px !important;
+}
+
+.page {
+    background-color: black !important;
+    color: #ffffff !important;
+    margin-top: 150px !important;
+    margin-bottom: 300px !important;
+}
+
+#outer,
+#pegasus_header,
+#pegasus_middle,
+#pegasus_zone_menus {
+    background-color: black !important;
+}
+
+#pegasus_header *,
+#pegasus_zone_menus a {
+    color: #dcdcdc;
+}
+
+.fa-bars,
+.km-menus-heading * {
+    color: #FFFFFF !important;
+}
+
+.pegasus-footer-logo {
+    --main-color: #ffffff !important;
+}
+
+#pegasus_contenu #document,
+body.BODY {
+    background-color: black !important;
+    background-image: none !important;
+    margin: 0px;
+}
+
+.tableau-form-phenix-defaut,
+.tableau-form-phenix-defaut *,
+#bloc_0_TITRE {
+    background-color: black !important;
+    background-image: none !important;
+    margin-top: 25px;
+    margin-left: 25px;
+    padding-top: 0px !important;
+}
+
+#bloc_0_TITRE {
+    width: 888px;
+    padding: 15px !important;
+}
+
+td.dsp_data_td_data {
+    border-top-color: white !important;
+    color: #DCDCDC;
+}
+
+.page-view-title,
+#sub_menu_area {
+    background-color: black !important;
+}
+
+#sub_menu_area,
+#content-list-editions,
+#sub_menu_area * {
+    background-color: black !important;
+    color: #ffffff !important;
+    margin-right: 0px;
+}
+
+.ligne-document {
+    background-color: black !important;
+}
+
+.ligne-document * {
+    color: #ffffff !important;
+}
+
+.area,
+.area-name-photo {
+    background-color: #2d2d2d !important;
+    width: 98% !important;
+    padding: 15px;
+}
+
+#tracking_header {
+    background-color: #202020 !important;
+    width: 100% !important;
+    margin-bottom: 18px;
+}
+
+.user-cursus {
+    padding: 15px;
+}
+
+.tracking-body-item th,
+.tracking-body-item a {
+    color: #dcdcdc !important;
+}
+
+.page-view-header-year {
+    padding: 15px;
+    margin-left: 20px !important;
+}
+
+p {
+    padding-left: 30px;
+}
+
+.elfinder .elfinder-button,
+.elfinder .elfinder-toolbar,
+.elfinder .elfinder-navbar,
+.elfinder .elfinder-statusbar,
+.elfinder .elfinder-contextmenu,
+.elfinder .elfinder-button-menu,
+.elfinder .elfinder-frontmost,
+.elfinder .ui-tabs-tab,
+.elfinder .elfinder-preference-content *,
+.elfinder .ui-widget-content,
+.elfinder .ui-widget,
+.elfinder .ui-sortable,
+.elfinder .elfinder-cwd-file,
+.elfinder .elfinder-table-header-sticky,
+.elfinder .elfinder-dialog-resize .elfinder-resize-handle {
+    background-image: none !important;
+    background-color: black !important;
+    color: #ffffff !important;
+}
+
+.elfinder .ui-widget-header,
+.elfinder-workzone {
+    background-image: none !important;
+    background-color: black !important;
+    color: #ffffff !important;
+}
+.elfinder .ui-state-active {
+    background: linear-gradient(to bottom, #ebf1f6 1%, black 100%) !important;
+}
+
+.dsp_data_td_data > div, td.dsp_data_td_data {
+    background: black!important;
+    color: white!important;
+    font-size: 11px;
+    border-color: #1abc9c!important;
+}
+
+.dsp_data_td_img img {
+   display: none; 
+}
+
+font[color="red"] {
+    color:#e74c3c;
+    font-weight: bold;
+}

@@ -1,0 +1,23 @@
+html, body, .lightbackground, .nomargin *{
+     background: #202020;
+     color: #ffffff !important;
+}
+
+h1, h2, h4, h5, li, a{
+    color: #ffffff;
+}
+
+frameset, .littleMarginTop, .image, #events, .dialog, .content *{
+    background: #424242 !important;
+    color: #ffffff !important;
+}
+
+.treeinput input {
+    color: #ffffff !important;
+    background: #3a3a3a !important;
+    border: none;
+}
+
+body.littleMarginTop{
+    margin-top:0 !important;
+}
