@@ -57,5 +57,11 @@ NB : Etant donné que le site génére des images pour les emplois du temps et l
 #### DebugPro by AbyadhX : DebugPro.css
 ![DebugPro](/screenshots/DebugPro.png)
 
+
+### Epitaf : https://epitaf.aureleoules.com/
+#### Epitaf by AbyadhX : Epitaf.css
+![Epitaf](/screenshots/Epitaf.png)
+
+
 ## Licence
 GNU GENERAL PUBLIC LICENSE V3.0

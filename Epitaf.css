@@ -1,0 +1,40 @@
+html, body, main, #root, .page{
+    background-color : #31383F !important;
+    color: #DCDCDC !important;
+}
+
+.sidebar_sidebar__2UqRw,
+.modal_container__1hTxj, .task_task__QIecT,
+.tasks_tasks__3CKDs .tasks_task__1s4sx .tasks_icon-container__3UMV9{
+    background-color: #24292E !important;
+    color: #DCDCDC !important;
+}
+
+input, textarea, select{
+    background-color : #31383F !important;
+    color: #dcdcdc !important;
+}
+
+.route{
+    margin-left : 100px; /* fix margin */
+}
+
+h1, h2, h3, h4, p, span, ul{
+    color: #DCDCDC !important;
+}
+
+.task_task__QIecT .task_subheader__w_teb p.task_subject__fGxSI{
+    color: #572ce8 !important;
+}
+
+.home_home__2Eb_k .home_calendar__i1TYT{
+    border-left: 0; /* better without left border */
+}
+
+.MuiPaper-root{
+    background-color: #24292E;
+}
+
+.MuiInputLabel-root{
+    color: #DCDCDC;
+}
