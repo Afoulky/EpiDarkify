@@ -9,10 +9,10 @@ Voici les extensions que je recommande :
 - Pour Opera : [Stylus for Opera](https://addons.opera.com/en-gb/extensions/details/stylus/)
 - Pour Safari : [Cascadea](https://cascadea.app/)
 
+[![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg)](https://raw.githubusercontent.com/AbyadhX/EpiDarkify/master/EpiDarkify.user.css)
 
 Vous pouvez aussi utiliser Dark Reader (il y a un paramètre pour prendre en charge les CSS custom)
 
-Les CSS ne sont pas encore au format userstyle, il faudra donc les ajouter manuellement pour le moment.
 
 ## Preview des sites pris en charge
 ### Pegasus : https://prepa-epita.helvetius.net/pegasus/index.php
