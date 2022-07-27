@@ -63,7 +63,7 @@
 }
 
 
-@-moz-document domain("cri.epita.fr")
+@-moz-document url-prefix("https://cri.epita.fr/")
 {
     html, body, main
     {
