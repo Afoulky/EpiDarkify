@@ -1,46 +1,14 @@
 /* ==UserStyle==
 @name           EpiDarkify
-@namespace      github.com/AbyadhX/EpiDarkify
-@version        1.0.0
+@namespace      github.com/Afoulky/EpiDarkify
+@version        2.0.0
 @description    Darkifiez votre expérience sur les sites web liés à EPITA
-@homepageURL    https://github.com/AbyadhX/EpiDarkify
-@supportURL     https://github.com/AbyadhX/EpiDarkify/issues
-@updateURL      https://raw.githubusercontent.com/AbyadhX/EpiDarkify/master/EpiDarkify.user.css
+@homepageURL    https://github.com/Afoulky/EpiDarkify
+@supportURL     https://github.com/Afoulky/EpiDarkify/issues
+@updateURL      https://raw.githubusercontent.com/Afoulky/EpiDarkify/master/EpiDarkify.user.css
 @license        GPL-3.0-only
-@author         AbyadhX
+@author         Afoulky
 ==/UserStyle== */
-
-@-moz-document domain("chronos.epita.net")
-{
-    html, body, .lightbackground, .nomargin *
-    {
-        background: #202020;
-        color: #ffffff !important;
-    }
-
-    h1, h2, h4, h5, li, a
-    {
-        color: #ffffff;
-    }
-
-    frameset, .littleMarginTop, .image, #events, .dialog, .content *
-    {
-        background: #424242 !important;
-        color: #ffffff !important;
-    }
-
-    .treeinput input
-    {
-        color: #ffffff !important;
-        background: #3a3a3a !important;
-        border: none;
-    }
-
-    body.littleMarginTop
-    {
-        margin-top: 0 !important;
-    }
-}
 
 @-moz-document domain("debug-pro.com")
 {
@@ -94,101 +62,8 @@
     }
 }
 
-@-moz-document domain("epitaf.fr")
-{
-    html, body, main, #root, .page
-    {
-        background-color: #31383F !important;
-        color: #DCDCDC !important;
-    }
 
-    .sidebar_sidebar__2UqRw,
-    .modal_container__1hTxj, .task_task__QIecT,
-    .tasks_tasks__3CKDs .tasks_task__1s4sx .tasks_icon-container__3UMV9
-    {
-        background-color: #24292E !important;
-        color: #DCDCDC !important;
-    }
-
-    input, textarea, select
-    {
-        background-color: #31383F !important;
-        color: #dcdcdc !important;
-    }
-
-    .route
-    {
-        margin-left: 100px;
-        /* fix margin */
-    }
-
-    h1, h2, h3, h4, p, span, ul
-    {
-        color: #DCDCDC !important;
-    }
-
-    .task_task__QIecT .task_subheader__w_teb p.task_subject__fGxSI
-    {
-        color: #572ce8 !important;
-    }
-
-    .home_home__2Eb_k .home_calendar__i1TYT
-    {
-        border-left: 0;
-        /* better without left border */
-    }
-
-    .MuiPaper-root
-    {
-        background-color: #24292E;
-    }
-
-    .MuiInputLabel-root
-    {
-        color: #DCDCDC;
-    }
-}
-
-@-moz-document domain("acdc.epita.fr")
-{
-    html, body
-    {
-        background-color: #202020 !important;
-        background-image: none !important;
-        color: #DCDCDC !important;
-    }
-
-    .card, .form-control, .dropdown-menu
-    {
-        background-color: #2d2d2d !important;
-        background-image: none !important;
-        color: #ffffff !important;
-    }
-
-    .card-primary
-    {
-        background-color: #3a3a3a !important;
-        background-image: none !important;
-    }
-
-    .table td, .table thead th, ul li pre
-    {
-        color: #ffffff !important;
-    }
-
-    .dropdown-item
-    {
-        color: #b0b0b0;
-    }
-
-    .card-body > pre
-    {
-        background-color: #272822 !important;
-        color: #ffffff !important;
-    }
-}
-
-@-moz-document url-prefix("https://cri.epita.fr/")
+@-moz-document url-prefix("cri.epita.fr")
 {
     html, body, main
     {
@@ -423,7 +298,11 @@
     .right-icon-mobile, .login .container-fluid .menu,
     .container, .home-page, #pegasus_center, #pegasus_contenu,
     .pegasus-center-cover, .pegasus-center-home-page,
-    #pegasus_header_line, .very-top-header, #pegasus_footer
+    #pegasus_header_line, .very-top-header, #pegasus_footer,
+    .chosen-container-active.chosen-with-drop .chosen-single,
+    .chosen-container .chosen-single,
+    .chosen-container .chosen-drop,
+    select
     {
         background-color: #0C0C0C !important;
         background-image: none !important;
@@ -502,7 +381,8 @@
         margin-right: 0px;
     }
 
-    .ligne-document
+    .ligne-document,
+    #div-filter table
     {
         background-color: #24292E !important;
     }
