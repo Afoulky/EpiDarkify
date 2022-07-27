@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           EpiDarkify
 @namespace      github.com/Afoulky/EpiDarkify
-@version        2.0.0
+@version        2.0.1
 @description    Darkifiez votre expérience sur les sites web liés à EPITA
 @homepageURL    https://github.com/Afoulky/EpiDarkify
 @supportURL     https://github.com/Afoulky/EpiDarkify/issues
@@ -63,7 +63,7 @@
 }
 
 
-@-moz-document url-prefix("cri.epita.fr")
+@-moz-document domain("cri.epita.fr")
 {
     html, body, main
     {
